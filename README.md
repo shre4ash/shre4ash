@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shreyash kumbhar
-- 👀 I’m interested in MERN
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on ...
+- 👀 Tech enthusiastic,gaining knowledge in Algorithm and Devlopment 
+- 🌱 I’m currently learning MERN stack and DSA
 - 📫 How to reach me shreyashkumbhar9@outlook.com/@shrexash
 - 😄 Pronouns: shrexash
 
