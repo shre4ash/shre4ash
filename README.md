@@ -2,7 +2,7 @@
 - 👀 I’m interested in MERN
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me shreyashkumbhar9@outlook.com/@shrxash
+- 📫 How to reach me shreyashkumbhar9@outlook.com/@shrexash
 - 😄 Pronouns: shrexash
 
 
